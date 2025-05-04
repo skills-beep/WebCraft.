@@ -1,73 +1,112 @@
-# Welcome to your Lovable project
+🌐 Bishal Sharma WebCraft
+A sleek, modern personal portfolio built with React, TypeScript, Tailwind CSS, and Vite to showcase projects, skills, and professional journey.
 
-## Project info
+🚀 Features
+⚡ Fast and optimized using Vite
 
-**URL**: https://lovable.dev/projects/8569249e-9b63-4b32-b52a-350c604de7a2
+🎨 Responsive design with Tailwind CSS
 
-## How can I edit this code?
+🎥 Smooth animations and transitions
 
-There are several ways of editing your application.
+🛠 Modular components for easy maintenance
 
-**Use Lovable**
+🌙 Dark/light theme toggle
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8569249e-9b63-4b32-b52a-350c604de7a2) and start prompting.
+🛑 Prerequisites
+Node.js ≥ 14
 
-Changes made via Lovable will be committed automatically to this repo.
+npm or yarn
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+📦 Installation
+bash
+Copy
+Edit
+git clone https://github.com/skills-beep/bishal-sharma-webcraft.git
+cd bishal-sharma-webcraft
+npm install
+🔧 Usage
+bash
+Copy
+Edit
 npm run dev
-```
+Open your browser at http://localhost:8080 to view the project.
 
-**Edit a file directly in GitHub**
+📁 Project Structure
+bash
+Copy
+Edit
+/src
+  ├── components
+  ├── hooks
+  ├── pages
+  ├── styles
+  └── assets
+🌟 Technologies
+React
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+TypeScript
 
-**Use GitHub Codespaces**
+Tailwind CSS
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Vite
 
-## What technologies are used for this project?
+🖼 Preview
+🌐 Bishal Sharma WebCraft
+A sleek, modern personal portfolio built with React, TypeScript, Tailwind CSS, and Vite to showcase projects, skills, and professional journey.
 
-This project is built with:
+🚀 Features
+⚡ Fast and optimized using Vite
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🎨 Responsive design with Tailwind CSS
 
-## How can I deploy this project?
+🎥 Smooth animations and transitions
 
-Simply open [Lovable](https://lovable.dev/projects/8569249e-9b63-4b32-b52a-350c604de7a2) and click on Share -> Publish.
+🛠 Modular components for easy maintenance
 
-## Can I connect a custom domain to my Lovable project?
+🌙 Dark/light theme toggle
 
-Yes, you can!
+🛑 Prerequisites
+Node.js ≥ 14
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+npm or yarn
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+📦 Installation
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/bishal-sharma-webcraft.git
+cd bishal-sharma-webcraft
+npm install
+🔧 Usage
+bash
+Copy
+Edit
+npm run dev
+Open your browser at http://localhost:8080 to view the project.
+
+📁 Project Structure
+bash
+Copy
+Edit
+/src
+  ├── components
+  ├── hooks
+  ├── pages
+  ├── styles
+  └── assets
+🌟 Technologies
+React
+
+TypeScript
+
+Tailwind CSS
+
+Vite
+
+🖼 Preview
+
+![Screenshot 2025-04-25 222944](https://github.com/user-attachments/assets/9a289695-930d-41c5-bbd9-2c2ec7094831)
+
+
+📬 Contact
+Feel free to connect with me on LinkedIn or check out my portfolio.
